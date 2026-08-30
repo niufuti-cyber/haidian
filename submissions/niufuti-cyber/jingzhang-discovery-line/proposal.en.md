@@ -7,7 +7,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "Using Jing-Zhang Railway Heritage Park as a public spine, this proposal turns urban questions into scientific and civic action that can be falsified, retested, and exited."
 proposal_format_version: "2"
 bilingual_contract_version: "1"
-version: "v0.2"
+version: "v1.3"
 tracks: ["civic-agent-governance", "jingzhang-heritage-narrative", "ai-public-services"]
   # Desktop simulation | Not a field test | Does not represent a real project event
 ---
@@ -15,6 +15,9 @@ tracks: ["civic-agent-governance", "jingzhang-heritage-narrative", "ai-public-se
 # Jing-Zhang · Discovery Line
 
 > The city sets the questions; AI takes the test.
+
+
+> After the public says no, the proposal still has a complete path: stop at once, restore the prior state, and hand the next decision to people.
 
 ## 90-Second Opening
 
@@ -80,6 +83,8 @@ Across the scenarios, G01, W01, R02, M01, H01, E01, and C02 retain the itemized 
 9. What remains unknown: responsible persons, retest dates, restoration costs, and precise boundaries — state them honestly as UNKNOWN, without invention.
 10. How to verify it: the webpage presents the main line in ten minutes; each chapter of the body starts with a conclusion; the machine-readable package can be recalculated directly.
 
+![Five-Minute Reviewer Evidence Read | Navigation only; evidence status is not upgraded and UNKNOWN remains](assets/figures/reviewer-evidence-read.en.webp)
+
 ## Design Basis and Source List
 
 Before designing anything, we sort the evidence into four piles. First come the Open Call announcement, the agent-oriented taskbook, and the review rules: they define the three-level scope, the three key areas, and the six mandatory tasks every entry must answer. Second come the registered public policies of the national government, Beijing, and Haidian. They point toward directions such as Urban Renewal, Scenario Access, and AI-enabled scientific research, but they do not replace this proposal’s own spatial evidence. Third come completed primary-source case studies, which explain the mechanisms that may be adapted and the boundaries that must not be copied. Fourth come our ten scenario cards, nine geometry layers, metrics, and matrices, which turn the Conceptual Recommendation into a traceable working draft that can be checked again. [source:SRC-2026-BJ-GH-QUAL-PREANNOUNCEMENT] [standard:PROJECT-OFFICIAL-ANNOUNCEMENT]
@@ -104,7 +109,7 @@ The three positionings are the “Centennial Jing-Zhang Cultural Belt,” the �
 
 ![Three-level scope and spatial work framework](assets/figures/site-overview.en.png)
 
-![Key Map | M01 responsibility is in one place; its spatial candidate is in another](assets/figures/key-map.en.png)
+![Key Map | M01 responsibility is in one place; its spatial candidate is in another](assets/figures/key-map.en.webp)
 
 ## Coordinated Research Area: Industry and Future City Research
 
@@ -143,7 +148,9 @@ The eight international cases show transferable mechanisms; they cannot replace 
 
 Note: this table defines proposed interfaces only. Nothing is signed or authorized; adoption is for duly empowered actors to decide. All cadence, responsibility, funding, sites, and implementation arrangements remain UNKNOWN and cannot be read as evidence that real-world collaboration has occurred.
 
-![Regional innovation synergy interface | Five counterparts enter, retest, and exit through two tracks and three stations](assets/figures/regional-synergy.en.png)
+![Regional innovation synergy interface | Five counterparts enter, retest, and exit through two tracks and three stations](assets/figures/regional-synergy.en.webp)
+
+![Whole-Line Sequence | Mechanism order only; not a schedule and not authorization](assets/figures/corridor-timetrack.en.webp)
 
 ## Overall Design Area: Urban Renewal and Regulatory-Plan-Level Urban Design
 
@@ -163,9 +170,15 @@ The three key areas are still rough, temporary envelopes, so they support direct
 
 The conceptual positioning of **Zhongzhiyuan’s “Retest Workshop”** is to turn observations arriving from settings such as the Xiaoyue River into reviewable evidence. Spatially, it is recommended to accommodate reservable calibration benches, version and error explanations, a public explanation window, equipment isolation, and retirement interfaces. In transport terms, priority should be given to checking whether people, instruments, and public visitors can move without interfering with one another. After AI is taken offline, standard protocols, manual instruments, public results, and a space for retesting remain. Whether buildings are retained, repaired, or renovated must await a formal survey and professional assessment. The architectural team can begin by preparing a survey checklist for the four types of need: calibration, explanation, isolation, and retirement.
 
+![Zhongzhiyuan Triptych | CC photograph + OSM anchor + conceptual illustration; not an intervention location or current condition](assets/figures/triptych-zhongzhiyuan.en.webp)
+
 The conceptual positioning of **AI Origin’s “Problem and Validation Foyer”** is to make the question clear before validating it. Spatially, it is recommended to retain paper and pen, telephone, accompanied site walks, a human question-translation desk, and manual sampling classes. AI only classifies, flags conflicts, and explains errors; it does not automatically set priorities or collect students’ faces, voiceprints, or household trajectories. Public Space must accommodate people without apps, carers, and wheelchair users. Building volume, materials, interfaces, and specific locations remain pending confirmation from professional materials. The spatial team can begin by organizing the plan around five question-intake methods and three types of users. [standard:BARRIER-FREE-ENVIRONMENT-LAW]
 
+![AI Origin Triptych | CC photograph + OSM anchor + conceptual illustration; not an intervention location or current condition](assets/figures/triptych-ai-yuandian.en.webp)
+
 The conceptual positioning of **Dazhongsi’s “First-Use and Exit Street Room”** is to compare gains and losses in real life. A candidate unit brings together ground floors, kerbsides, park interfaces, and quiet community boundaries. It first compares fixed time windows, static parking spaces, and human guidance, and only then determines whether anonymous counting or withdrawable scheduling is needed. Limited first use becomes possible only after road-use authority, fire safety, accessibility, loading and unloading, the site, data, and operational responsibility have all been resolved; if responsibility has not been connected, the unit does not enter a trial. Professional teams can begin field checks with these seven conditions and write feasible time windows, restoration actions, and maintenance responsibility back to the candidate unit. [standard:MOHURD-ARCH-DESIGN-DEPTH-2016] [depth:height_massing_character]
+
+![Dazhongsi Triptych | CC photograph + OSM anchor + conceptual illustration; not an intervention location or current condition](assets/figures/triptych-dazhongsi.en.webp)
 
 At Dazhongsi’s “First-Use and Exit Street Room,” the AI agent plaque wall, staffed window, and quickly removable intelligent terminals may be presented only as concepts; the responsible person, version, retirement date, terminal locations, authorization, and operating status are all UNKNOWN. This interface does not expand C02’s responsibilities: AI still only aggregates and compares the quiet, balanced, and vibrant options, while human inquiry, static wayfinding, a fixed activity schedule, and a no-activity control day remain in place.
 
@@ -174,6 +187,12 @@ Four-quadrant walking at Dazhongsi Station is expressed only as a concept throug
 All three places continue their development through the same seven questions: What is the positioning? How is the space organized? How are buildings treated? How do transport and the Walking and Cycling Network remain continuous? How does Public Space preserve a non-AI path? Who maintains the AI-Enabled Scenario? How is it stopped and restored after failure? The current draft answers responsibilities and methods of judgment without presenting conceptual sections as detailed construction plans. These seven questions also form the shared development brief for the architectural, transport, landscape, and operations teams.
 
 ![Figure 3 | One Responsibility per Area; a Responsibility Station Is Not a Spatial Location](assets/figures/key-areas.en.png)
+
+![Figure 3A | ZHONGZHIYUAN | RETEST PLATFORM—PUBLIC EXPLANATION—EQUIPMENT EXIT INTERFACE](assets/figures/section-zhongzhiyuan.en.webp)
+
+![Figure 3B | AI ORIGIN | NO-APP QUESTION ENTRY—HUMAN QUESTION TRANSLATION—MANUAL SAMPLING INTERFACE](assets/figures/section-ai-yuandian.en.webp)
+
+![Figure 3C | DAZHONGSI | WITHDRAWABLE GROUND-FLOOR—KERB—PARK UNIT](assets/figures/section-dazhongsi.en.webp)
 
 ## AI Innovation Ecosystem, Personas, and AI+ Scenarios
 
@@ -202,7 +221,7 @@ The Discovery Passport ID is **M01** across every file: responsible person **UNK
 
 Each card should ultimately leave one of the following: a protocol, work order, repair record, open data dictionary, service standard, or explicit “do not adopt” conclusion. It must state the maintainer, version, scope of application, review date, and retirement method. Attendance, webpage displays, or demonstration videos alone do not count as completed validation. The scenario operator, location, baseline value, and retest time remain **UNKNOWN / pending confirmation from formal materials**. Once formal information is available, the operations team can complete each item by card ID and schedule its review.
 
-![AI ON / OFF: What disappears, and what remains?](assets/figures/v14-ai-on-off.en.png)
+![AI ON / OFF: What disappears, and what remains?](assets/figures/v14-ai-on-off.en.webp)
 
 ## Land Use, Building Scale, and Retain-Renovate-Demolish Strategy
 
@@ -234,9 +253,9 @@ Public-service facilities retain staffed windows, telephones, printed directorie
 
 ![Composite transport, Walking and Cycling Network, municipal, and Blue-Green Public Space diagram](assets/figures/mobility-bluegreen.en.png)
 
-![V03 | Four States of One M01 Conceptual Kerbside](assets/figures/curb-four-states.en.png)
+![V03 | Four States of One M01 Conceptual Kerbside](assets/figures/curb-four-states.en.webp)
 
-![V16 | M01 Three-State Conceptual Sections on One Baseline](assets/figures/v16-m01-sections.en.png)
+![V16 | M01 Three-State Conceptual Sections on One Baseline](assets/figures/v16-m01-sections.en.webp)
 
 ## Blue-Green Network, Public Space, and Urban Character
 
@@ -261,6 +280,16 @@ The honours display is not a permanent awards wall that records only successes. 
 ## Renewal Projects, Implementation Policy, and Phasing
 
 Before discussing a construction date, every item goes into five ledgers and through six gates. The five ledgers cover planning and design, public foundations, scenario validation, operations and maintenance, and social coordination. The six gates cover data and boundaries, problem value, scientific protocol, urban first use, projects and funding, and construction and operations. A project moves only after all six gates are satisfied, and every transition leaves a named responsibility, the supporting materials, and a review record. **Plain-language gate phrases:** Gate One accepts only two things: formal materials and a responsible person. Gate Two asks first: Does this serve the public? Where is the boundary? Who is affected? Who is responsible? At Gate Three, turn the proposal into a protocol, check it on the desktop, then retest it independently. Gate Four: only an authorized proposal may enter a limited trial. No authorization means no trial. Gate Five: if the site, funding, or construction commitment is unresolved, stop there. Gate Six: formal location, operations and maintenance, rights clearance, and legal conditions first; construction comes after. [source:HD-2025-URBAN-RENEWAL]
+
+| Item | English line 1: independent verification | English line 2: sign-off format |
+|---|---|---|
+| Gate One — Data and Boundaries | Proposed roles: a planning, surveying, or data-review function that did not prepare the base map, enter the data, or draw the boundary should independently verify source, scope, version, and UNKNOWN fields; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; an organization name, chat confirmation, or blank signature field does not constitute passage. |
+| Gate Two — Problem Value | Proposed roles: a public-value, affected-party participation, or social-impact review function that did not frame the question should independently verify public value, affected groups, and boundaries; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; keep the gate closed if affected groups and an objection route are not recorded. |
+| Gate Three — Scientific Protocol | Proposed roles: a scientific-method, instrument-calibration, or independent-reproduction function that neither wrote the protocol nor ran the test should review the hypothesis, protocol, tool version, failure denominator, and reproduction conditions; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; self-testing with self-sign-off, or a missing protocol version, does not constitute passage. |
+| Gate Four — Urban First Use | Proposed roles: an authorization, ethics, safety, accessibility, or affected-party participation review function that did not propose the first-use candidate should independently verify site permission, Human Takeover, the non-AI path, stopping, and restoration; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; keep the status UNKNOWN / not passed if the authorizing actor is unconfirmed or authorization material is missing. |
+| Gate Five — Projects and Funding | Proposed roles: a budget, procurement, legal, land, or conflict-of-interest review function that did not prepare the project proposal should independently verify funding source, procurement authority, site conditions, and exit cost; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; interest, verbal support, or another project’s funding cannot replace formal sign-off. |
+| Gate Six — Construction and Operations | Proposed roles: a planning-and-construction, fire-safety, accessibility, operations-and-maintenance, rights-clearance, or legal review function that did not prepare the construction or operating proposal should independently verify formal location, maintenance, shutdown, restoration, and statutory conditions; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; keep the gate closed if any responsibility, rights, or maintenance condition is missing. |
+| M01 — Discovery Passport | Proposed roles: a protocol, accessibility, transport, data-rights, or operations-review function that neither generated the M01 candidates nor adjudicated that round should independently verify the three options, non-AI baseline, failure denominator, stop, restoration, and return under the same ID; this line does not mean that any role has been assigned. | Proposed sign-off format: verifier surname + employee ID + date; responsible person, stop authority, retest date, and restoration cost remain UNKNOWN until duly empowered material and sign-off are both available. |
 
 The project list is organized by conditions rather than presenting Conceptual Recommendations as scheduled works:
 
@@ -306,25 +335,33 @@ Note: both tables define proposed agent.6 interfaces only; nothing is signed, au
 
 ## Metrics, Area Recalculation, and Compliance Matrix
 
-The three known values describe only the current provisional design model. Confidence is low, and they are not statutory or existing-condition metrics. For example, the Overall Design Area working surface measures **11,412,825.386 square metres**, using the formula `area(union(site_boundary))` in EPSG:4548, with the provisional base surface `PROV-SITE-001` as its source. This is not an Official Planning Boundary and must be recalculated when a formal boundary replaces it; using the same formula and coordinate reference system for that recalculation makes the difference between the two results directly traceable. [metric:site_area_sqm] [data:geometry/site_boundary.geojson] The complete record of that desktop exercise follows: **The time we ran it on the desktop:** The Time We Ran It on the Desktop Desktop simulation | Not a field test | Does not represent a real project event Status: Current status: Not approved · Not authorized · Not implemented. 30 three-state receipts: The 10 cards produced 30 receipts across 3 states, merged into one JSON array. Each receipt records the input summary, six-gate decision, evidence path, and synthetic/non-field flag. The 10 human-baseline cases and 10 protocol-comparison cases were each held because conditions were incomplete; all 10/10 over-boundary advancement cases were refused by the rules. Negative injections: 14 negative injections produced `14 injections / 0 leaks`, covering overreach, a missing non-AI route, failed withdrawal, missing responsibility, and M01 drift. This result only proves that no leak occurred within the desktop simulation; it does not prove anything in the field. One closed M01 round: M01 used Codex's own model for 1 real generation round. The prompt, all 3 candidates, and all 3 adjudications were retained, with no round deleted and no outcome-based selection. The exact service identity and seed were unavailable and recorded as such. None of the 3 candidates crossed the authorization, resource, or operating conditions. Field count: 0. Whole-line downgrade: If any card fails retesting, the passport level for the whole line drops back one level; the weakest card may not be patched in isolation. This record is not a real retest. Authority boundary: Zhongzhiyuan handles retesting; AI Origin clarifies the question before validation; Dazhongsi may conduct limited first use only after authorization, with exit available at any time. M01 responsibility chain: M01 is the only candidate whose responsibility chain is developed in greatest depth. Responsible person: UNKNOWN. Stop authority: UNKNOWN | pending confirmation of the formal responsible entity. Retest date: UNKNOWN. Restoration cost: UNKNOWN. Non-AI route and restoration: The equivalent non-AI path uses fixed loading windows, static parking spaces, and human guidance; individual couriers are not tracked or evaluated. If the AI layer fails, it goes dark, the prior state and non-AI timetable return, and everyday tasks continue. Double count: The double count is fixed: tabletop simulation `30/30`; real retests `0`; field runs `0`. Summary:
+The three known values describe only the current provisional design model. Confidence is low, and they are not statutory or existing-condition metrics. For example, the Overall Design Area working surface measures **11,412,825.386 square metres**, using the formula `area(union(site_boundary))` in EPSG:4548, with the provisional base surface `PROV-SITE-001` as its source. This is not an Official Planning Boundary and must be recalculated when a formal boundary replaces it; using the same formula and coordinate reference system for that recalculation makes the difference between the two results directly traceable. [metric:site_area_sqm] [data:geometry/site_boundary.geojson]
 
-| Boundary | Desktop simulation \| Not a field test \| Does not represent a real project event | Retain verbatim |
-|---|---|---|
-| Desktop receipts | 30/30 | 10 cards, 3 states each |
-| Negative injections | 14 injections / 0 leaks | Zero leaks |
-| M01 capture | 1 round; 3 candidates; 3 adjudications | All retained |
-| Real retests | 0 | Not performed |
-| Field runs | 0 | Not performed |
-| Current status | Not approved · Not authorized · Not implemented | Retain verbatim |
-| Responsible person | UNKNOWN | Pending formal confirmation |
-| Stop authority | UNKNOWN | Pending formal confirmation |
-| Retest date | UNKNOWN | |
-| Restoration cost | UNKNOWN | |
+The desktop record is introduced through four cells below. The full facts and their verification limits are in “Appendix: Desktop Run Ledger.” Minimal package records are available at `visual/assets/run-record-three-state.json`, `visual/assets/run-record-negative-tests.json`, `visual/assets/run-record-model-round.json`, and `visual/assets/run-record-downgrade.json`. They support only the desktop entries and recorded determinations, not field outcomes, approval, authorization, or implementation.
+
+| Everyday task | Failure condition | Stop action | Restoration / human takeover |
+|---|---|---|---|
+| Complete the delivery-kerb task without a smart device, using fixed loading windows, static parking spaces, and human guidance. | Authorization, resources, or operations are incomplete; the non-AI route is missing; withdrawal or restoration fails; responsibility is unassigned; or the M01 record drifts. | Refuse advancement and switch off the AI layer. If any card fails retesting, downgrade the whole line by one level rather than patching only the weakest card. | Restore the prior state and non-AI timetable, then let people decide what happens next. The responsible person, stop authority, retest date, and restoration cost remain UNKNOWN. |
 
 
-Alongside—but separately named from and never combined with—the 30-receipt three-state ledger, the v0.2 package includes a second offline task-exercise ledger. Its method is a deterministic protocol walkthrough: the readings for 24 tasks come directly from the task table and can be recomputed from the same fields. [metric:simulation_task_count] The ledger records 20 items that met the expected determination—including 6 refusal-class tasks correctly stopped by the rules—and 4 items that did not, for 20/24. [metric:simulation_success_rate] Dispatch-instruction format was valid for 23/24, while the remaining illegal instruction was correctly stopped by the data-and-boundary gate. [metric:tool_schema_pass_rate] Three tasks exceeded their energy budgets. [metric:energy_budget_violations] Audit completeness was 21/24. [metric:audit_completeness] Its six gates map in order to the proposal's data and boundaries, problem value, scientific protocol, urban first use, projects and funding, and construction and operations gates. These readings come from an offline desktop walkthrough, never entered field operation, and do not demonstrate real project outcomes. The preceding three-state receipt ledger and double-count lock belong to the same desktop exercise; their underlying records remain archived in the project workspace, were not included in the package, and cannot be recomputed from package contents. This exercise ledger can instead be recomputed field by field from `simulation.json`; it is neither counted in that lock nor added to it.
+Alongside—but separately named from and never combined with—the three-state record, the v1.3 package includes a second offline task-exercise ledger. Its method is a deterministic protocol walkthrough: the readings for 24 tasks come directly from the task table and can be recomputed from the same fields; the task total is the array length at [`simulation.json#/tasks`](simulation.json#/tasks), cross-checked against [`simulation.json#/task_count`](simulation.json#/task_count). [metric:simulation_task_count] The ledger records 20 values in [`simulation.json#/tasks/*/outcome`](simulation.json#/tasks/*/outcome) that are `success` or end in `_success`—including 6 refusal-class tasks correctly stopped by the rules—and 4 that do not, using [`simulation.json#/tasks`](simulation.json#/tasks) as the denominator, for 20/24. [metric:simulation_success_rate] Dispatch-instruction format was valid for 23/24: the numerator is the `true` count at [`simulation.json#/tasks/*/dispatch_schema_valid`](simulation.json#/tasks/*/dispatch_schema_valid), and the denominator is [`simulation.json#/tasks`](simulation.json#/tasks); the remaining illegal instruction was correctly stopped by the data-and-boundary gate. [metric:tool_schema_pass_rate] Three tasks exceeded their energy budgets, counted where [`simulation.json#/tasks/*/energy_used_kwh`](simulation.json#/tasks/*/energy_used_kwh) is greater than [`simulation.json#/tasks/*/energy_budget_kwh`](simulation.json#/tasks/*/energy_budget_kwh). [metric:energy_budget_violations] Audit completeness was 21/24: the numerator is the `true` count at [`simulation.json#/tasks/*/audit_complete`](simulation.json#/tasks/*/audit_complete), and the denominator is [`simulation.json#/tasks`](simulation.json#/tasks). [metric:audit_completeness] Its six gates map in order to the proposal's data and boundaries, problem value, scientific protocol, urban first use, projects and funding, and construction and operations gates. These readings come from an offline desktop walkthrough, never entered field operation, and do not demonstrate real project outcomes. The package copy of the three-state record allows the entries and determinations to be inspected, but the executable program is not included, so the run cannot be independently repeated from the package. The exercise ledger can instead be recomputed field by field from `simulation.json`; it is neither counted in the three-state total nor added to it.
 
-See `report/narrative.md` for the runtime evidence index; it records only the functional names and SHA-256 fingerprints of the source files, which remain archived in the project workspace and have not been copied into this package.
+| Key metric entry | Value | availability |
+|---|---:|---|
+| Announced coordinated research area | 43,600,000 sqm | external_public |
+| Announced overall design area | 11,400,000 sqm | external_public |
+| Announced combined area of the three key detailed-design zones | 3,684,000 sqm | external_public |
+| Provisional working-surface area | 11,412,825.386 sqm | bundled |
+| Green-space ratio | 0.074603 | bundled |
+| Public Space ratio | 0.004293 | bundled |
+| Offline exercise task total | 24 | bundled |
+| Offline exercise success rate | 20/24 | bundled |
+| Offline exercise dispatch-schema validity | 23/24 | bundled |
+| Offline exercise audit completeness | 21/24 | bundled |
+| Offline exercise energy-budget violations | 3 | bundled |
+
+
+See `report/narrative.md` for the runtime evidence index. Four minimal run records are included in the package; the remaining sources are represented only by fingerprints kept in the project archive and cannot be independently verified from the package.
 
 The green-space ratio is **0.074603**, using `area(union(green_space)) / area(union(site_boundary))`. The Public Space ratio is **0.004293**, using `area(union(public_space)) / area(union(site_boundary))`. For both numerators, the conservative subset of OSM-mapped existing features and the B area-wide framework conceptual intervention are first deduplicated and then unioned; C first-phase nodes are not counted again. If any formal green-space, Public Space, or boundary polygon replaces the current one, both ratios must be recalculated. [metric:green_ratio] [data:geometry/green_space.geojson] [metric:public_space_ratio]
 
@@ -332,11 +369,59 @@ The green-space ratio is used to check the relationship between Blue-Green conti
 
 Scenario metrics begin with real denominators. Access measures success across a complete task, time taken by the slowest group, and breaks that remain after the repeat walk. The kerbside compares hazardous incidents, waiting, accessibility, and noise through aggregated data. Public services measure avoided steps, whether human takeover succeeds, and whether complaints are resolved. Environmental work measures the completeness of sampling protocols, instrument calibration, missing observations, and cross-season reproduction. Every metric includes refusals, cancellations, failed human takeover, failure to restore after removal, and displacement of problems to adjacent segments in its denominator.
 
+| What is measured (current status) | Where | How (tool / sample / authorization) | Criterion and threshold basis | Retest cycle | If it fails |
+|---|---|---|---|---|---|
+| `[No authorization required]` Whether a complete R02 task encounters an access break; current status: **UNMEASURED** | Existing walking routes that are normally open to the public and require no entry into a controlled area; formal start and end points are UNKNOWN | Paper task sheet, handheld timing tool, and human observation; record route conditions only, with no images of people and no personal trajectories; stop if the area is closed and reclassify the item as authorization-dependent | The criterion is whether the same complete task can be completed without a break along the non-AI path; statutory width, slope, and time thresholds are UNKNOWN, so no pass is recorded before professional criteria are provided | After each complete walk under public-open conditions; repeat after route or repair status changes | Keep the item not passed; mark the break, retain static wayfinding and human enquiries, and do not enter a withdrawable trial |
+| `[No authorization required]` Whether lighting and static wayfinding remain continuous along a publicly open route at night; current status: **UNMEASURED** | The same publicly open R02 route, without entering a station interior, worksite, compound, or other controlled space | Handheld illuminance tool and paper break sheet; install no equipment, obstruct no movement, take no images, and recruit, identify, or record no real person | The criterion is no dark break that makes static wayfinding unreadable or interrupts a no-app task on the public route; illuminance and readability thresholds are UNKNOWN, so no pass is recorded without professional criteria | Recheck after a change in night-time opening, lighting, or wayfinding status | Withdraw any “continuous at night” wording; retain human enquiries and mark breaks requiring lighting and accessibility review |
+| `[No authorization required]` Waiting, loading conflict, and accessibility continuity at a visible public kerb; current status: **UNMEASURED** | An observation point outside a kerb that is publicly visible, normally open, and requires neither road occupation nor entry into a managed area | Paper observation sheet and handheld timing tool; record aggregated event categories only, with no images, plates, or tracking of couriers or pedestrians | The criterion is no increase in hazardous incidents, waiting, or accessibility breaks; event definitions, observation window, and thresholds are UNKNOWN, and zero observations cannot be presented as zero risk | Recheck after the kerb state changes; before formal authorization, retain only the unmeasured status and make no operating conclusion | Stop candidate progression; retain fixed windows, static parking, and human guidance, and add authorization-dependent observation to the dependency list |
+| `[No authorization required]` Whether a publicly open route has ponding or a detour break after rain; current status: **UNMEASURED** | The surface of an existing route that remains normally open to the public after rain and has no safety cordon | Paper location sketch, handheld ruler, and time record; no water sample, entry into water, crossing of barriers, or personal record | The criterion is whether ponding or a detour interrupts the complete access task; depth, duration, and safety thresholds are UNKNOWN, and no water-quality or safety conclusion is published without water or professional criteria | After rainfall when observation is safe; after drainage or repair status changes | Keep the result UNKNOWN; mark the visible break and refer it for formal water, drainage, and accessibility review; publish no water-quality or safety judgment |
+| `[No authorization required]` Whether static wayfinding and a staffed route work without an app; current status: **UNMEASURED** | Existing public interfaces that are normally open, without entering behind a counter or any registration-controlled area | Paper task card, static-wayfinding checklist, and handheld timing tool; no interviews with real service users and no collection of voice, image, or identity information | The criterion is whether a person without an app can reach human service from the question entry and complete exit; text, distance, waiting, and service thresholds are UNKNOWN | Repeat after wayfinding, opening status, or the human entry changes | Mark the break, withdraw any “task can be completed” wording, and retain paper, telephone, static wayfinding, and human enquiries as the baseline pending review |
+
 The Discovery Passport records at least the person responsible for the question, spatial object, evidence level, source scale, non-AI baseline, falsifiable hypothesis, protocol and tool version, data rights and quality, independent reproduction, scientific return, public decision, trade-off feedback, responsibility lookup, and exit. The evidence ladder contains only L0–L5: from policy agenda, city/district priors, and district-level signals to corridor evidence, field supplementation, reversible trials, and retesting. A directional judgment is upgraded to an object-level validation conclusion only after reaching the corresponding evidence level; professional teams can begin further sampling from the next evidence level stated in the passport. [depth:metrics_recalculation]
+
+| Dependency | Prerequisite | What remains blocked | Who can provide it (institution / function type only) | Depth available after completion |
+|---|---|---|---|---|
+| D01 | UNKNOWN: formal overall boundary, formal polygons for the three areas, existing-condition survey, statutory controls, and land-rights material | Replacement of provisional geometry, recalculation of areas and ratios, and object-level statutory judgment | Planning-management, survey-record custody, natural-resource, or asset-rights management functions | Provisional layers can be replaced and recalculated under the same object IDs; this does not automatically enter approval or construction |
+| D02 | UNKNOWN: formal R02 start and end points plus fire-safety, accessibility, transport, and accompanied-walk conditions | Location of access breaks, minimum-repair judgment, human route, and NO-GO conditions | Transport, fire-safety, accessibility professional-service, or public-participation organization functions | A field-walk protocol, break register, and professional review can be prepared; a recommendation cannot be presented as repaired |
+| D03 | UNKNOWN: road class, redline, kerb, clear width, loading, and bicycle conditions from an existing-condition survey | Applicability of the M01 options, review of conceptual sections, and withdrawable timing | Transport-management, municipal-road, surveying, or site-operations functions | The conceptual kerbside can be developed into candidate drawings and a conditions table; first use still requires authorization |
+| D04 | UNKNOWN: non-AI baseline, aggregate-data definition, protocol version, and tool and model versions | Like-for-like A/B/C comparison, failure denominator, and independent reproduction | Data-governance, operating-data custody, scientific-method, or AI-tool maintenance functions | A reproducible desktop / protocol comparison can be run; it cannot replace field outcomes |
+| D05 | UNKNOWN: asset responsibility, operating acceptance, maintenance and removal crew, restoration action, and funding source | Installation, stopping, removal, restoration, and maintenance work orders | Asset-management, operations-and-maintenance, budget, or procurement functions | Responsibility and restoration drafts can be prepared; responsibility and cost remain UNKNOWN before sign-off |
+| D06 | UNKNOWN: affected-party participation, objection and appeal route, risk trade-offs, repeat walk, and empowered decision | The public decision to continue, modify, not adopt, or remove | Public-participation, accessibility-audit, social-impact-review, or empowered-decision functions | A human decision receipt with objections can be prepared; it is not approval, procurement, or implementation |
+| M01-1 | UNKNOWN: formal overall boundary and three-area polygons | M01 unit scope, layer replacement, and package recalculation | Planning-management or survey-record custody functions | Temporary geometry can be replaced and related objects recalculated; scope does not expand automatically |
+| M01-2 | UNKNOWN: road redline, road class, kerb, and existing-condition survey | V16 conditions, common-baseline sections, and location of a withdrawable kerbside | Transport-management, municipal-road, or surveying functions | Candidate sections can be redrawn with conditions; they are not engineering lines |
+| M01-3 | UNKNOWN: fire clear width, accessibility slope, and continuous-access professional conditions | Whether R02 passes and whether M01 remains NO-GO | Fire-safety or accessibility professional-review functions | A professional pass / fail judgment can be made; no trial proceeds without passage |
+| M01-4 | UNKNOWN: land rights, site permission, and asset responsibility | Whether a duly empowered actor can accept the candidate unit | Asset-rights, legal, or site-management functions | Responsibility interfaces and authorization boundaries can be confirmed; this is not authorization to implement |
+| M01-5 | UNKNOWN: formal existing baseline for fixed loading windows, static parking spaces, and human guidance | Non-AI baseline A and like-for-like comparison of the three options | Transport-operations, commercial-district operations, or public-service management functions | The non-AI baseline can be locked and protocol comparison can begin; individual couriers are not tracked or evaluated |
+| M01-6 | UNKNOWN: operator, removal crew, maintenance responsibility, and restoration funding source | Whether stopping, removal, restoration, and repeat walk can be executed | Operations-and-maintenance, asset-management, budget, or procurement functions | An executable stop-and-restoration work-order draft can be prepared; no people or dates are assigned before sign-off |
+| M01-7 | UNKNOWN: aggregate-data definition, protocol version, tool version, and model version | A/B/C comparability, failure denominator, reproduction, and audit | Data-governance, scientific-method, or AI-tool maintenance functions | Like-for-like comparison and independent review can be performed; no real-world effect is claimed without a field baseline |
+
+#### Zhongzhiyuan Retest Workshop
+
+1. What can be done now: use the existing proposal only to prepare a four-part survey checklist and missing-material register for calibration, explanation, isolation, and retirement; do not enter the site, measure, collect personal data, occupy land, obtain or imply authorization, or construct. The output is only a revisable and withdrawable document draft.
+2. What is awaited: formal boundary, building survey, instrument and protocol conditions, fire and accessibility conditions, and site responsibility, provided by planning, surveying, architecture, fire-safety, accessibility, or site-management function types.
+3. Proposed consolidation after completion: a professional team with the relevant responsibilities may consolidate spatial interfaces for calibration, explanation, isolation, and retirement into a professional proposal pending review and arrange separate independent review; this card does not mean that a team has been selected, the project authorized, or facilities built.
+
+#### AI Origin Problem and Validation Foyer
+
+1. What can be done now: use the existing proposal only to prepare a relationship checklist for paper and pen, telephone, accompanied site walks, human question translation, and manual-sampling classes, plus a missing-needs list for people without apps, carers, and wheelchair users; do not enter the site, recruit, collect real-participant data, occupy land, obtain or imply authorization, or construct. The output is only a revisable and withdrawable document draft.
+2. What is awaited: formal boundary, existing building conditions, materials and interfaces, heritage conditions, public-service conditions, and participation authorization, provided by planning, surveying, architecture, heritage, public-service, or public-participation function types.
+3. Proposed consolidation after completion: spatial and public-service professional teams with the relevant responsibilities may consolidate the plan relationship among five question-entry methods and three user types into a professional proposal pending review; this card does not mean that a team has been selected, an entry is operating, or participation has occurred.
+
+#### Dazhongsi First-Use and Exit Street Room
+
+1. What can be done now: use the existing M01 ID only to prepare an A/B/C comparison shell and blank dependency table; site, road, clear width, baseline, responsibility, cost, and date all remain UNKNOWN. Do not enter the site, measure, collect personal data, occupy land, obtain or imply authorization, or construct. The output is only a revisable and withdrawable document draft.
+2. What is awaited: road-use, fire-safety, accessibility, loading, site, aggregate-data, operations, asset-responsibility, restoration, and affected-party participation conditions, provided by transport, fire-safety, accessibility, data-governance, operations, asset, or public-participation function types.
+3. Proposed consolidation after completion: transport, planning, accessibility, and operations professional teams with the relevant responsibilities may consolidate a candidate plan, common-baseline three-state sections, and a withdrawable sequence into a professional proposal pending review. Limited first use can be discussed only after authorization conditions are closed; this card does not mean approval, scheduling, or implementation.
 
 ![Figure 5 | Nothing Moves Until the Signature Line Is Filled](assets/figures/metrics-evidence.en.png)
 
-![Figure 5B | Responsibility, Dependencies, and Handoff Detail](assets/figures/metrics-evidence-detail.en.png)
+![Metric Card | Responsibility awaits sign-off; not authorization](assets/figures/metrics-card-responsibility.en.webp)
+
+![Metric Card | Dependencies remain open; not authorization](assets/figures/metrics-card-dependency.en.webp)
+
+![Metric Card | Handoff awaits acceptance; not authorization](assets/figures/metrics-card-handover.en.webp)
+
+![Figure 5B | Responsibility, Dependencies, and Handoff Detail](assets/figures/metrics-evidence-detail.en.webp)
 
 ## Risk, Copyright, and Compliance
 
@@ -352,11 +437,15 @@ All spatial, operational, branding, and policy statements remain Conceptual Reco
 
 Privacy and rights are jointly governed by minimum data collection, Human Review, informed participation and appeal, an equivalent non-AI path, and deletion or retirement at expiry. If a trial increases hazardous incidents, obstructs fire safety or accessibility, worsens waiting, crosses night-time noise limits, requires personal trajectories, is used for platform labour evaluation, or lacks maintenance responsibility, it stops immediately or returns to the non-AI option. People make the final decision; AI cannot turn aggregated results into an automatic decision. [standard:GENERATIVE-AI-INTERIM-MEASURES] [standard:BARRIER-FREE-ENVIRONMENT-LAW]
 
-The twelve scene images, the historical-engineering concept image, and the atmospheric underlay in the mobility/blue-green figures were produced by the submission team with OpenAI's built-in image-generation tool. Each package path, generation batch or confirmable time window, derivative relationship, and SHA-256 is registered in `sources.json`. Under the OpenAI Terms of Use effective 1 January 2026, the submitter owns the Output as between the submitter and OpenAI. Public display also follows the Sharing & Publication Policy updated 14 November 2022, with per-image human review, AI-generation disclosure, and final responsibility retained by the submitter. The project logo has been replaced with a project-authored vector that contains no Lovart-converted paths. The HTML, figures, and four PDFs use Source Han Serif/Sans [version and filenames] obtained from an official adobe-fonts release and used, embedded, and redistributed under the SIL Open Font License 1.1, with the full licence included in the package. These grounds do not establish uniqueness, automatic copyright protection, or freedom from third-party claims. Independent legal review remains required before formal brand adoption, registration, or commercial promotion.
+The twelve scene images, the historical-engineering concept image, and the atmospheric underlay in the mobility/blue-green figures were produced by the submission team with OpenAI's built-in image-generation tool.
+
+Consistent with proposal text: the cover retains the blue-hour concept of one public spine linking three stations. It is a derivative cover from `slot-v15`, not a photograph of existing conditions, formal planning drawing, approval, or construction evidence.
+
+Each package path, generation batch or confirmable time window, derivative relationship, and SHA-256 is registered in `sources.json`. Under the OpenAI Terms of Use effective 1 January 2026, the submitter owns the Output as between the submitter and OpenAI. Public display also follows the Sharing & Publication Policy updated 14 November 2022, with per-image human review, AI-generation disclosure, and final responsibility retained by the submitter. The project logo has been replaced with a project-authored vector that contains no Lovart-converted paths. The HTML, figures, and four PDFs use Source Han Serif SC 2.003R (`SourceHanSerifSC-Regular.otf`, `SourceHanSerifSC-Bold.otf`) and Source Han Sans SC 2.005R (`SourceHanSansSC-Regular.otf`, `SourceHanSansSC-Bold.otf`) obtained from official adobe-fonts releases and used, embedded, and redistributed under the SIL Open Font License 1.1, with the full licence included in the package. These grounds do not establish uniqueness, automatic copyright protection, or freedom from third-party claims. Independent legal review remains required before formal brand adoption, registration, or commercial promotion.
 
 “Referenced” in the professional standards matrix and design-depth matrix means only that the body provides an entry point for the response. It does not mean that professional materials are complete or that the design depth has been achieved. In particular, formal documents on architectural design depth, formal control conditions, ecology and heritage, existing buildings, land rights, funding, and operating responsibility must still be closed through later formal materials. [standard:MOHURD-ARCH-DESIGN-DEPTH-2016]
 
-![Taskbook Crosswalk | What is answered, and what is still missing?](assets/figures/task-brief-crosswalk.en.png)
+![Taskbook Crosswalk | What is answered, and what is still missing?](assets/figures/task-brief-crosswalk.en.webp)
 
 ## Official Open Call Task-by-Task Response Index
 
@@ -388,6 +477,29 @@ This table is only an index of responses and an explicit account of gaps. It doe
 | Agent-oriented taskbook: landmarks | The three responsibility landmarks and V15 node image | Concept-level answer |
 | Agent-oriented taskbook: culture | The three-layer cultural narrative in “Blue-Green Network, Public Space, and Urban Character” | Concept-level answer |
 | Agent-oriented taskbook: operations | The whole-life-cycle operation in “Renewal Projects, Implementation Policy, and Phasing” | Concept-level answer |
+
+## Appendix: Desktop Run Ledger
+
+This appendix retains the complete facts moved out of the four-cell entry. Every result comes from a desktop simulation, not a field test, and does not represent a real project event. The status remains Not approved · Not authorized · Not implemented.
+
+| Audit item | Value | Calculation | Source-field pointer | Limitation |
+|---|---:|---|---|---|
+| Task total | 24 | `length(tasks) = task_count = 24` | [`simulation.json#/tasks`](simulation.json#/tasks); [`simulation.json#/task_count`](simulation.json#/task_count) | offline · synthetic · non-field |
+| Success | 20/24 | `count(outcome == "success" or ends_with("_success")) / length(tasks) = 20/24` | [`simulation.json#/tasks/*/outcome`](simulation.json#/tasks/*/outcome); [`simulation.json#/tasks`](simulation.json#/tasks) | offline · synthetic · non-field |
+| Dispatch valid | 23/24 | `count(dispatch_schema_valid == true) / length(tasks) = 23/24` | [`simulation.json#/tasks/*/dispatch_schema_valid`](simulation.json#/tasks/*/dispatch_schema_valid); [`simulation.json#/tasks`](simulation.json#/tasks) | offline · synthetic · non-field |
+| Audit complete | 21/24 | `count(audit_complete == true) / length(tasks) = 21/24` | [`simulation.json#/tasks/*/audit_complete`](simulation.json#/tasks/*/audit_complete); [`simulation.json#/tasks`](simulation.json#/tasks) | offline · synthetic · non-field |
+| Energy over budget | 3 | `count(energy_used_kwh > energy_budget_kwh) = 3` | [`simulation.json#/tasks/*/energy_used_kwh`](simulation.json#/tasks/*/energy_used_kwh); [`simulation.json#/tasks/*/energy_budget_kwh`](simulation.json#/tasks/*/energy_budget_kwh) | offline · synthetic · non-field |
+
+
+| Item | Full fact | Package evidence entry | Verification limit |
+|---|---|---|---|
+| Three-state record | Each of the ten mechanism cards has a human-baseline, protocol-comparison, and over-boundary-advancement entry, for 30/30 entries. The ten human-baseline and ten protocol-comparison entries were each held because conditions were incomplete; all 10/10 over-boundary advancement entries were refused. | `visual/assets/run-record-three-state.json` | The package exposes all 30 summaries, six-part determinations, and desktop/non-field flags. It does not include the executable program, so the run cannot be repeated independently. |
+| Negative checks | Fourteen deliberately invalid inputs cover AI replacing human decisions, a missing non-AI route, unauthorized sampling, conclusions from one observation, missing responsibility, failure to restore after stopping, automatic scope expansion, advancement with unknown funding, and record drift. Every expected rejection point appears in the observed rejection set; missed rejections: 0. | `visual/assets/run-record-negative-tests.json` | Expected and observed rejection points can be inspected item by item. This does not prove field safety or real outcomes, and the checks cannot be rerun from the package. |
+| M01 model round | The package preserves one set of prompt conditions, three spatial candidates, and three six-part determinations. Authorization, resource, and operating conditions remain unmet for all three; field count: 0. The exact service identity and seed are unavailable. | `visual/assets/run-record-model-round.json` | The archived source labels this as one preregistered round without outcome-based selection. The package can verify only this prompt and these three candidates; it cannot independently prove that no other run was omitted. |
+| Whole-line downgrade | The desktop rule says that if any card fails retesting, the passport level for the whole line drops by one level; the weakest card cannot be patched in isolation. | `visual/assets/run-record-downgrade.json` | This is a rule calculation, not a real retest. |
+| Authority and responsibility | Zhongzhiyuan handles retesting; AI Origin clarifies the question before validation; Dazhongsi may conduct limited first use only after authorization and may exit. M01 is the only candidate with the deepest responsibility chain. Responsible person, stop authority, retest date, and restoration cost are all UNKNOWN. | “90-Second Opening” and “Public Summary” in this proposal | These are proposed interfaces. They do not mean an actor has been appointed or authorization obtained. |
+| Non-AI route and restoration | Fixed loading windows, static parking spaces, and human guidance remain available; individual couriers are not tracked or evaluated. On failure, the AI layer goes dark, the prior state and non-AI timetable return, and people take over the decision. | `visual/assets/run-record-model-round.json`, `visual/assets/run-record-downgrade.json` | This shows that the desktop candidates carry these limits; it does not prove that field takeover or restoration capacity already exists. |
+| Double count | Desktop entries: 30/30. Real retests: 0. Field runs: 0. | `visual/assets/run-record-three-state.json` | The three counts are not combined. |
 
 ## References
 
